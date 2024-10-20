@@ -1,0 +1,48 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": true,
+        "File": "thesis.pdf"
+    },
+    "Session": {
+        "Bookmarks": [
+        ],
+        "CurrentFile": "thesis.tex",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 32,
+                "EditorGroup": 0,
+                "FileName": "thesis.tex",
+                "FirstLine": 10,
+                "FoldedLines": "",
+                "Line": 43
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "appendices/a-appendix.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "chapters/papers.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "chapters/0a-abstract.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 3
+            }
+        ],
+        "MasterFile": "",
+        "VerticalSplit": true
+    }
+}
